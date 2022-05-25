@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: AKIA4RKAAPID67WG3VH6
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/861812062727/javatechie-queue
